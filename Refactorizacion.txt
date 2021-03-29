@@ -1,0 +1,24 @@
+Code smell 1:
+5
+Se cambio el nombre a la variable global
+5
+
+Code smell 2:
+14-33
+Se creo en un metodo para la creacion del tablero
+8-29
+
+Code smell 3:
+76-107
+Se creo la funcion para verificar el resultado que tiene las casilla del tablero
+31-64
+
+Code smell 4:
+41-75
+Se creo un metodo jugar que recibe parametros para conocer a que jugador le toca el turno
+66-102
+
+Code smell 5:
+7-139
+Se creo el metodo game donde se inicializa todos los metos y las funciones 
+104-128
